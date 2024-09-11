@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/recipeapp/static/css/main.f855e6bc.css",
+    "main.js": "/github.io/recipeapp/static/js/main.3ce2f962.js",
+    "static/js/453.4d936f87.chunk.js": "/github.io/recipeapp/static/js/453.4d936f87.chunk.js",
+    "static/media/logo.svg": "/github.io/recipeapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/recipeapp/index.html",
+    "main.f855e6bc.css.map": "/github.io/recipeapp/static/css/main.f855e6bc.css.map",
+    "main.3ce2f962.js.map": "/github.io/recipeapp/static/js/main.3ce2f962.js.map",
+    "453.4d936f87.chunk.js.map": "/github.io/recipeapp/static/js/453.4d936f87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3ce2f962.js"
+  ]
+}
